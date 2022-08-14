@@ -5,7 +5,7 @@ I'm really excited to solve the problems of Foodi-Fie
 Lessons learnt from this case study
 * Cross checking results to make sure that results are accurate and significant
 * Learnt about DATE functions such as DATEPART(), DATENAME(), DATEADD(), DATEDIFF()
-* Problem solving, these problems helps to improve the solving ability and thinking ability
+* Problem solving, these problems helps to improve the problem solving and thinking ability
 * Working with multiple cte tables, where I break down the problem into small problems using cte and combine all the results to get the final result
 * Rows binning using CASE Statement
 
